@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hi there! I'm a Senior Software Engineer with a strong background in backend and full-stack development. I am passionate about creating robust and scalable applications using modern technologies. This is my GitHub home page, where you can find some of my projects and contributions. 
 
-- 🔭 I’m currently working on [CodeFormatter.dev](https://codeformatter.dev)
+- 🔭 I’m currently working on [CodeFormatter.dev](https://codeformatter.dev) when [Ninja](https://www.ninjaone.com) gives me a break hehe
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/pedro-vsn)
 
 Thank you for visiting my GitHub home page!
